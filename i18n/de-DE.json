@@ -1,0 +1,21 @@
+{
+  "title": "SkyStack",
+  "tagline": "Stapel Blöcke bis ins Weltall",
+  "tapToPlay": "Tippe zum Spielen",
+  "hint": "Tippe, wenn der Block ausgerichtet ist",
+  "best": "Rekord",
+  "games": "Spiele",
+  "height": "Höhe",
+  "combo": "Combo",
+  "perfect": "Perfekt!",
+  "newRecord": "Neuer Rekord!",
+  "playAgain": "Nochmal spielen",
+  "share": "Teilen",
+  "shareText": "Ich habe {score} Blöcke in SkyStack auf RoqueOS gestapelt! Schaffst du mehr? 🏗️",
+  "shareSaved": "Rekord-Bild gespeichert! Teile es mit deinen Freunden.",
+  "paused": "Pausiert",
+  "tapToResume": "Tippe zum Fortsetzen",
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus",
+  "operationFailed": "Vorgang konnte nicht abgeschlossen werden. Bitte erneut versuchen."
+}

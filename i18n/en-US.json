@@ -1,0 +1,21 @@
+{
+  "title": "SkyStack",
+  "tagline": "Stack blocks all the way to space",
+  "tapToPlay": "Tap to play",
+  "hint": "Tap when the block lines up",
+  "best": "Best",
+  "games": "Games",
+  "height": "Height",
+  "combo": "Combo",
+  "perfect": "Perfect!",
+  "newRecord": "New record!",
+  "playAgain": "Play again",
+  "share": "Share",
+  "shareText": "I stacked {score} blocks in SkyStack on RoqueOS! Can you beat me? 🏗️",
+  "shareSaved": "Score image saved! Share it with your friends.",
+  "paused": "Paused",
+  "tapToResume": "Tap to resume",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off",
+  "operationFailed": "Could not complete the operation. Please try again."
+}

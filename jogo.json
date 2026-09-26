@@ -1,0 +1,58 @@
+{
+  "id": "skystack",
+  "slug": "skystack",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "SkyStack",
+    "en-US": "SkyStack",
+    "es-ES": "SkyStack",
+    "fr-FR": "SkyStack",
+    "de-DE": "SkyStack",
+    "ja-JP": "SkyStack",
+    "zh-CN": "SkyStack",
+    "hi-IN": "SkyStack",
+    "ru-RU": "SkyStack",
+    "ar-AR": "SkyStack"
+  },
+  "descricao": {
+    "pt-BR": "Jogo de empilhar blocos 3D: suba até o espaço, e cada erro deixa a torre mais fina.",
+    "en-US": "3D block-stacking game, climb all the way to space",
+    "es-ES": "Juego de apilar bloques 3D: sube hasta el espacio y cada fallo deja la torre más estrecha.",
+    "fr-FR": "Jeu d'empilement de blocs 3D, montez jusqu'à l'espace",
+    "de-DE": "3D-Stapelspiel bis ins Weltall: Jeder ungenaue Stopp macht den Turm ein Stück schmaler.",
+    "ja-JP": "3Dブロック積みゲーム。宇宙を目指し、はみ出した分だけ塔は細くなっていく。",
+    "zh-CN": "3D 堆方块游戏：一路堆到太空，每次没对齐，塔就变得更细一点。",
+    "hi-IN": "3D ब्लॉक स्टैकिंग गेम: अंतरिक्ष तक पहुँचें, हर चूक के साथ मीनार पतली होती जाती है।",
+    "ru-RU": "Игра в укладку 3D-блоков: доберитесь до космоса, ведь каждый промах сужает башню.",
+    "ar-AR": "لعبة تكديس مكعبات ثلاثية الأبعاد: اصعد حتى الفضاء، وكل إخفاق يجعل البرج أنحف."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Empilhe blocos 3D até o espaço, de graça no navegador: cada erro corta a base e a torre fica mais estreita.",
+      "sobre": "SkyStack é o jogo de empilhar com a punição embutida: o pedaço que passa do bloco de baixo cai fora, e a próxima base é só o que sobrou. Errar não termina o jogo, encurta ele.",
+      "comoJogar": "Um toque para soltar o bloco. Acertar em cheio devolve um pouco da largura perdida."
+    },
+    "en-US": {
+      "resumo": "Stack 3D blocks up to space, free in your browser: every miss trims the base and the tower gets thinner.",
+      "sobre": "SkyStack is the stacking game with the punishment built in: whatever overhangs the block below falls away, and the next base is only what is left. Missing does not end the run, it shortens it.",
+      "comoJogar": "One tap to drop the block. A perfect landing gives back a little of the width you lost."
+    }
+  },
+  "etiquetas": ["OneTouch", "3d"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(139, 92, 246, 0.5)",
+  "janela": {
+    "largura": 460,
+    "altura": 720,
+    "minLargura": 340,
+    "minAltura": 520
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

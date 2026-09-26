@@ -1,0 +1,21 @@
+{
+  "title": "SkyStack",
+  "tagline": "Empilhe blocos até o espaço",
+  "tapToPlay": "Toque para jogar",
+  "hint": "Toque quando o bloco alinhar",
+  "best": "Recorde",
+  "games": "Partidas",
+  "height": "Altura",
+  "combo": "Combo",
+  "perfect": "Perfeito!",
+  "newRecord": "Novo recorde!",
+  "playAgain": "Jogar de novo",
+  "share": "Compartilhar",
+  "shareText": "Empilhei {score} blocos no SkyStack do RoqueOS! Consegue me superar? 🏗️",
+  "shareSaved": "Imagem do recorde salva! Compartilhe com os amigos.",
+  "paused": "Pausado",
+  "tapToResume": "Toque para continuar",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado",
+  "operationFailed": "Não foi possível concluir a operação. Tente novamente."
+}

@@ -1,0 +1,21 @@
+{
+  "title": "SkyStack",
+  "tagline": "Empilez des blocs jusqu'à l'espace",
+  "tapToPlay": "Touchez pour jouer",
+  "hint": "Touchez quand le bloc s'aligne",
+  "best": "Record",
+  "games": "Parties",
+  "height": "Hauteur",
+  "combo": "Combo",
+  "perfect": "Parfait !",
+  "newRecord": "Nouveau record !",
+  "playAgain": "Rejouer",
+  "share": "Partager",
+  "shareText": "J'ai empilé {score} blocs dans SkyStack sur RoqueOS ! Tu peux me battre ? 🏗️",
+  "shareSaved": "Image du record enregistrée ! Partagez-la avec vos amis.",
+  "paused": "En pause",
+  "tapToResume": "Touchez pour reprendre",
+  "soundOn": "Son activé",
+  "soundOff": "Son coupé",
+  "operationFailed": "Impossible de terminer l'opération. Veuillez réessayer."
+}

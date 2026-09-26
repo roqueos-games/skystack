@@ -1,0 +1,21 @@
+{
+  "title": "SkyStack",
+  "tagline": "把方块堆到太空",
+  "tapToPlay": "点击开始",
+  "hint": "方块对齐时点击",
+  "best": "最佳",
+  "games": "局数",
+  "height": "高度",
+  "combo": "连击",
+  "perfect": "完美！",
+  "newRecord": "新纪录！",
+  "playAgain": "再玩一次",
+  "share": "分享",
+  "shareText": "我在RoqueOS的SkyStack里堆了{score}块！你能超过我吗？🏗️",
+  "shareSaved": "纪录图片已保存！快分享给朋友吧。",
+  "paused": "已暂停",
+  "tapToResume": "点击继续",
+  "soundOn": "声音开",
+  "soundOff": "声音关",
+  "operationFailed": "无法完成此操作，请重试。"
+}
